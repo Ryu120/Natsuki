@@ -33,7 +33,7 @@ if ENV:
 
     try:
         OWNER_ID = int(os.environ.get("OWNER_ID", None))
-    except ValueError:
+    except ValueError:1635151800
         raise Exception("Your OWNER_ID env variable is not a valid integer.")
 
     JOIN_LOGGER = os.environ.get("JOIN_LOGGER", None)
