@@ -63,7 +63,7 @@ from Natsuki.modules.helper_funcs.misc import paginate_modules
 from Natsuki.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-`Hey There!` [👩‍💼](https://telegra.ph/file/0ed48df18f4175d61b5d8.jpg) My Name is MAKI ZENIN.
+`Hey There!` [👩‍💼](https://telegra.ph/file/fc4148cfe17827698ea9c.jpg) My Name is MAKI ZENIN.
 I'm a Powerfull jujutsu sorcerer who can control your group with powerful skills. feel free to add me to your groups!
 """
 
