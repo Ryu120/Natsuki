@@ -63,17 +63,17 @@ from Natsuki.modules.helper_funcs.misc import paginate_modules
 from Natsuki.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-👋 Hey There,(https://telegra.ph/file/fc4148cfe17827698ea9c.jpg) My Name is MAKI ZENIN. 
-I'm a Powerfull Group Manager Bot With Cool Modules. feel free to add me to your groups!
+👋 Hey There, My Name is MAKI ZENIN. 
+I'm a Powerfull jujutsu sorcerer who can control your group with powerful skills. feel free to add me to your groups!
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="𝕸𝖆𝖐𝖎 𝖓𝖊𝖜𝖘", url="https://t.me/Maki_zenin_support"
+            text="ᴍᴀᴋɪ ɴᴇᴡs", url="https://t.me/Maki_zenin_support"
         ),
         InlineKeyboardButton(
-            text="Support Group 💬", url="https://t.me/Maki_zenin_support"
+            text="sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ 💬", url="https://t.me/Maki_zenin_support"
         ),
     ],
     [
