@@ -63,22 +63,22 @@ from Natsuki.modules.helper_funcs.misc import paginate_modules
 from Natsuki.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-👋 Hey There, My Name is 𝗡𝗮𝘁𝘀𝘂𝗸𝗶. 
+👋 Hey There,(https://telegra.ph/file/fc4148cfe17827698ea9c.jpg) My Name is MAKI ZENIN. 
 I'm a Powerfull Group Manager Bot With Cool Modules. feel free to add me to your groups!
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="Natsuki News 🙋‍♂️", url="https://t.me/Natsuki_Updates"
+            text="𝕸𝖆𝖐𝖎 𝖓𝖊𝖜𝖘", url="https://t.me/Maki_zenin_support"
         ),
         InlineKeyboardButton(
-            text="Support Group 💬", url="https://t.me/NatsukiSupport_Official"
+            text="Support Group 💬", url="https://t.me/Maki_zenin_support"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="Source 🗒", url="Github.com/Sadew451"
+            text="Anime fun chat", url="https://t.me/Otaku_zon"
         ),
         InlineKeyboardButton(
             text="Command Help ❓", callback_data="help_back"
@@ -92,10 +92,10 @@ buttons = [
     ],
 ]
 
-NATSUKI_IMG = "https://telegra.ph/file/2d0fa7e07eb1fe3983aba.jpg"
+NATSUKI_IMG = "https://telegra.ph/file/fc4148cfe17827698ea9c.jpg"
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/2d0fa7e07eb1fe3983aba.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/fc4148cfe17827698ea9c.jpg)
 
 /start: Starts me! You've probably already used this.
 /help: Click this, I'll let you know about myself!
@@ -111,7 +111,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [SADEW JAYASEKARA](t.me/IM_SADEW)"""
+Support them  [Ryu](t.me/Ryu_God)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
